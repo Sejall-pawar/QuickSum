@@ -1,0 +1,29 @@
+.Header-name{
+    text-align: center;
+    font-size: 45px;
+}
+
+.num-contanier{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.Num1-box{
+    height: 30px;
+    width: 250px;
+    border: 2px solid black;
+}
+
+.sum-result{
+    text-align: center;
+    font-size: 45px;
+}
+
+.btn{
+    cursor: pointer;
+    margin-left: 50%;
+    height: 35px;
+    width: 70px;
+    font-size: 20px;
+    margin-top: 50px;
+}
